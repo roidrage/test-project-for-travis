@@ -1,0 +1,6 @@
+sudo: required
+language: ruby
+install:
+  - gem install bugsnag
+script:
+- /bin/true
